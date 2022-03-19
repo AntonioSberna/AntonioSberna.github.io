@@ -5,7 +5,7 @@
     <link>https://AntonioSberna.github.io/publication/</link>
       <atom:link href="https://AntonioSberna.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2021 00:00:01 +0100</lastBuildDate>
     <image>
       <url>https://AntonioSberna.github.io/media/icon_hu14779c9fd8200bd6f7905e79c1eadfc8_13109_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,21 +13,44 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://AntonioSberna.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://AntonioSberna.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>A new genetic algorithm-based framework for optimized design of steel-jacketing retrofitting in shear-critical and ductility-critical RC frame structures</title>
+      <link>https://AntonioSberna.github.io/publication/ga-scdc/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/ga-scdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal seismic retrofitting of reinforced concrete buildings by steel-jacketing using a genetic algorithm-based framework</title>
+      <link>https://AntonioSberna.github.io/publication/ga-sj/</link>
+      <pubDate>Mon, 25 May 2020 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/ga-sj/</guid>
+      <description>&lt;p align=center&gt; &lt;strong&gt;Publication&lt;/strong&gt;: Journal &lt;/p&gt;
+&lt;p align=center&gt; &lt;strong&gt;Publication&lt;/strong&gt;: in 
+&lt;a href=&#34;https://www.sciencedirect.com/journal/engineering-structures&#34;&gt;&lt;strong&gt;Engineering Structure&lt;/strong&gt;&lt;/a&gt; vol &lt;a href=&#34;https://www.sciencedirect.com/journal/engineering-structures/vol/219/suppl/C&#34;&gt;219&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An new framework for the optimization of steel jacketing retrofitting interventions on RC columns is presented.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The method can provide topological optimization (location) and amount of steel-jacketing reinforcement.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The optimization process is based on a genetic algorithm handling a fiber-section model realized in OpenSees.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The feasibility individual solutions is controlled by the capacity/demand ratio resulting from pushover analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The application of the method can effectively reduce retrofitting costs maintaining a specified safety level.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The framework can be used by practitioners as a tool for sustainable retrofitting interventions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Retrofitting of existing reinforced concrete (RC) frame structures by steel angles and battens (steel-jacketing) is a commonly employed technique used to retrofit beams and columns against gravity and seismic loads. Steel-jacketing (SJ) effectively provides additional deformation and strength capacity to RC members but its application is associated with noticeable downtime of the building and non-negligible costs, depending on the amount of structural and non-structural manufacturing and materials. This paper presents an optimization framework aimed at the minimization of seismic retrofitting-related costs by an optimal placement (topological optimization) and amount of steel-jacketing reinforcement. In the proposed framework a 3D RC frame fiber-section model implemented in OpenSees is handled by a genetic algorithm routine that iterates reinforcement configurations to match the optimal solution. The feasibility of each solution is controlled by the outcomes of a static pushover analysis in the framework of N2 method. Results will provide optimized location and amount of steel-jacketing reinforcement, showing how effective and sustainable reduction of retrofitting costs is achievable maintaining a specified safety level.&lt;/p&gt;
 </description>
     </item>
     
