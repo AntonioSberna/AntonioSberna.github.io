@@ -7,7 +7,7 @@
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2021 00:00:01 +0100</lastBuildDate>
     <image>
-      <url>https://AntonioSberna.github.io/media/icon_hu14779c9fd8200bd6f7905e79c1eadfc8_13109_512x512_fill_lanczos_center_3.png</url>
+      <url>https://AntonioSberna.github.io/media/icon_hua8c447e19aaf7ea2349f501e630c4433_22745_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://AntonioSberna.github.io/publication-type/2/</link>
     </image>
@@ -17,7 +17,16 @@
       <link>https://AntonioSberna.github.io/publication/ga-scdc/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:01 +0100</pubDate>
       <guid>https://AntonioSberna.github.io/publication/ga-scdc/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A new genetic-algorithm based framework to optimize of retrofitting interventions in RC structures is presented.&lt;/li&gt;
+&lt;li&gt;The method minimizes retrofitting-related costs for steel-jacketing of reinforced concrete columns.&lt;/li&gt;
+&lt;li&gt;The framework efficaciously provides retrofitting optimization for RC structures with shear and ductility lacks.&lt;/li&gt;
+&lt;li&gt;Specific genetic operators and functions have been developed and calibrated.&lt;/li&gt;
+&lt;li&gt;It is proved that the framework can effectively reduce the intervention costs maintaining structural safety.&lt;/li&gt;
+&lt;li&gt;The framework can be a support for engineers in designing efficient existing structures seismic retrofitting.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -49,8 +58,6 @@
 &lt;p&gt;The framework can be used by practitioners as a tool for sustainable retrofitting interventions.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Retrofitting of existing reinforced concrete (RC) frame structures by steel angles and battens (steel-jacketing) is a commonly employed technique used to retrofit beams and columns against gravity and seismic loads. Steel-jacketing (SJ) effectively provides additional deformation and strength capacity to RC members but its application is associated with noticeable downtime of the building and non-negligible costs, depending on the amount of structural and non-structural manufacturing and materials. This paper presents an optimization framework aimed at the minimization of seismic retrofitting-related costs by an optimal placement (topological optimization) and amount of steel-jacketing reinforcement. In the proposed framework a 3D RC frame fiber-section model implemented in OpenSees is handled by a genetic algorithm routine that iterates reinforcement configurations to match the optimal solution. The feasibility of each solution is controlled by the outcomes of a static pushover analysis in the framework of N2 method. Results will provide optimized location and amount of steel-jacketing reinforcement, showing how effective and sustainable reduction of retrofitting costs is achievable maintaining a specified safety level.&lt;/p&gt;
 </description>
     </item>
     
