@@ -30,19 +30,59 @@
     
     <item>
       <title>AI-based optimization framework for the design of seismic retrofitting of reinforced concrete frame structures based on direct costs and EAL</title>
-      <link>https://AntonioSberna.github.io/publication/ga_eal/</link>
+      <link>https://AntonioSberna.github.io/publication/ga-eal/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:01 +0101</pubDate>
-      <guid>https://AntonioSberna.github.io/publication/ga_eal/</guid>
+      <guid>https://AntonioSberna.github.io/publication/ga-eal/</guid>
       <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An novel AI-based framework for the seismic retrofitting cost optimization of RC buildings is proposed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The framework also controls service life cost through the evaluation of the expected annual loss (EAL).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The method can provide multiple topological and sizing optimization of the reinforcement.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The optimization process is based on a genetic algorithm handling a fiber-section model realized in OpenSees.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The application of the method can effectively reduce retrofitting costs maintaining a specified EAL.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The framework can be implemented as a tool for cost-effective and sustainable design of retrofitting.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>A new empirical formulation for the out-of-plane resistance of infilled reinforced concrete frames without prior in-plane loading</title>
-      <link>https://AntonioSberna.github.io/publication/infill_oop/</link>
+      <link>https://AntonioSberna.github.io/publication/infill-oop/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:01 +0100</pubDate>
-      <guid>https://AntonioSberna.github.io/publication/infill_oop/</guid>
+      <guid>https://AntonioSberna.github.io/publication/infill-oop/</guid>
       <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A new empirical formulation for the evaluation of the out-of-plane resistance of masonry infills is presented.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The formula is based on a hybrid dataset made of real experimental tests and refined numerical simulations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An in-depth finite element investigation is carried out with a refined micromodel properly validated.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The new formula takes into account the effect of vertical loads on the out-of-plane resistance of infills.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A conversion factor is introduced to compare point-load and distributed load out-of-plane tests.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A comparison with literature models confirms large improvement of predictive capacity by the proposed model.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
