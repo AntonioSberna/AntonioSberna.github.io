@@ -5,12 +5,23 @@
     <link>https://AntonioSberna.github.io/</link>
       <atom:link href="https://AntonioSberna.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonio Sberna</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:01 +0101</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Apr 2024 00:00:01 +0101</lastBuildDate>
     <image>
       <url>https://AntonioSberna.github.io/media/icon_hua8c447e19aaf7ea2349f501e630c4433_22745_512x512_fill_lanczos_center_3.png</url>
       <title>Antonio Sberna</title>
       <link>https://AntonioSberna.github.io/</link>
     </image>
+    
+    <item>
+      <title>Structural health monitoring of masonry structure by stress sensors: Experimental induced damage tests and proposed numerical approach for real time monitoring</title>
+      <link>https://AntonioSberna.github.io/publication/masonry_sensors_fibers/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:01 +0101</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/masonry_sensors_fibers/</guid>
+      <description>&lt;!-- ## **Highlights**  --&gt;
+&lt;h2 id=&#34;pubblication-process-state-&#34;&gt;**Pubblication process state: **&lt;/h2&gt;
+&lt;p&gt;Apr 2023 - Submitted&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cost-effective topology optimization of existing masonry structure seismic reinforcements by a new genetic algorithm-based framework</title>
