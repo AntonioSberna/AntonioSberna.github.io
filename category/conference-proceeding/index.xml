@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference proceeding | Antonio Sberna</title>
+    <link>https://AntonioSberna.github.io/category/conference-proceeding/</link>
+      <atom:link href="https://AntonioSberna.github.io/category/conference-proceeding/index.xml" rel="self" type="application/rss+xml" />
+    <description>conference proceeding</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Sep 2022 00:00:01 +0100</lastBuildDate>
+    <image>
+      <url>https://AntonioSberna.github.io/media/icon_hua8c447e19aaf7ea2349f501e630c4433_22745_512x512_fill_lanczos_center_3.png</url>
+      <title>conference proceeding</title>
+      <link>https://AntonioSberna.github.io/category/conference-proceeding/</link>
+    </image>
+    
+    <item>
+      <title>A new GA-based framework based on Expected Annual Loss for optimizing seismic retrofitting in reinforced concrete frame structures</title>
+      <link>https://AntonioSberna.github.io/publication/anidis2022-eal/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/anidis2022-eal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel genetic algorithm-based optimization framework for minimizing seismic retrofitting costs in existing masonry structures</title>
+      <link>https://AntonioSberna.github.io/publication/anidis2022-muratura/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/anidis2022-muratura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic algorithm‐based seismic retrofitting optimization for existing masonry structures</title>
+      <link>https://AntonioSberna.github.io/publication/3ecees_gamasonry/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/3ecees_gamasonry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive equations for the out‐of-plane resistance of masonry infills in RC frames by a data‐driven approach</title>
+      <link>https://AntonioSberna.github.io/publication/3ecees_oop/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/3ecees_oop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic algorithm-based optimization procedure for the seismic retrofitting of existing masonry structures</title>
+      <link>https://AntonioSberna.github.io/publication/cst22/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/cst22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplified Evaluation of the Additional Shear Demand Due to Masonry Infills</title>
+      <link>https://AntonioSberna.github.io/publication/eosd22/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/eosd22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel framework based on Expected Annual Loss for optimizing seismic retrofitting in reinforced concrete structures</title>
+      <link>https://AntonioSberna.github.io/publication/fibyoung2021/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/fibyoung2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic response of infilled frames subject to accidental column losses</title>
+      <link>https://AntonioSberna.github.io/publication/eurostruct2021/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/eurostruct2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expected Annual Loss oriented seismic retrofitting optimization of RC frame structures using a new AI-based framework</title>
+      <link>https://AntonioSberna.github.io/publication/compdyn2021_2/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/compdyn2021_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of steel-jacketing retrofitting of shear-critical and ductility-critical RC frame structures by a novel genetic algorithm framework</title>
+      <link>https://AntonioSberna.github.io/publication/compdyn2021_1/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/compdyn2021_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost and EAL based optimization for seismic reinforcement of RC structures</title>
+      <link>https://AntonioSberna.github.io/publication/igf26/</link>
+      <pubDate>Wed, 26 May 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/igf26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-based and EAL based optimization algorithms for seismic retrofitting of RC frame structures</title>
+      <link>https://AntonioSberna.github.io/publication/icd2020/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/icd2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic algorithm-based optimization of RC frame structures retrofitting with steel jacketing</title>
+      <link>https://AntonioSberna.github.io/publication/iwsss2020/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/iwsss2020/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/d4e03FPrpv8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

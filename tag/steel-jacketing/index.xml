@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>steel jacketing | Antonio Sberna</title>
+    <link>https://AntonioSberna.github.io/tag/steel-jacketing/</link>
+      <atom:link href="https://AntonioSberna.github.io/tag/steel-jacketing/index.xml" rel="self" type="application/rss+xml" />
+    <description>steel jacketing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 00:00:01 +0100</lastBuildDate>
+    <image>
+      <url>https://AntonioSberna.github.io/media/icon_hua8c447e19aaf7ea2349f501e630c4433_22745_512x512_fill_lanczos_center_3.png</url>
+      <title>steel jacketing</title>
+      <link>https://AntonioSberna.github.io/tag/steel-jacketing/</link>
+    </image>
+    
+    <item>
+      <title>Optimization of steel-jacketing retrofitting of shear-critical and ductility-critical RC frame structures by a novel genetic algorithm framework</title>
+      <link>https://AntonioSberna.github.io/publication/compdyn2021_1/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/compdyn2021_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new genetic algorithm-based framework for optimized design of steel-jacketing retrofitting in shear-critical and ductility-critical RC frame structures</title>
+      <link>https://AntonioSberna.github.io/publication/ga-scdc/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/ga-scdc/</guid>
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A new genetic-algorithm based framework to optimize of retrofitting interventions in RC structures is presented.&lt;/li&gt;
+&lt;li&gt;The method minimizes retrofitting-related costs for steel-jacketing of reinforced concrete columns.&lt;/li&gt;
+&lt;li&gt;The framework efficaciously provides retrofitting optimization for RC structures with shear and ductility lacks.&lt;/li&gt;
+&lt;li&gt;Specific genetic operators and functions have been developed and calibrated.&lt;/li&gt;
+&lt;li&gt;It is proved that the framework can effectively reduce the intervention costs maintaining structural safety.&lt;/li&gt;
+&lt;li&gt;The framework can be a support for engineers in designing efficient existing structures seismic retrofitting.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genetic algorithm-based optimization of RC frame structures retrofitting with steel jacketing</title>
+      <link>https://AntonioSberna.github.io/publication/iwsss2020/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/iwsss2020/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/d4e03FPrpv8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal seismic retrofitting of reinforced concrete buildings by steel-jacketing using a genetic algorithm-based framework</title>
+      <link>https://AntonioSberna.github.io/publication/ga-sj/</link>
+      <pubDate>Mon, 25 May 2020 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/ga-sj/</guid>
+      <description>&lt;p align=center&gt; &lt;strong&gt;Publication&lt;/strong&gt;: Journal &lt;/p&gt;
+&lt;p align=center&gt; &lt;strong&gt;Publication&lt;/strong&gt;: in 
+&lt;a href=&#34;https://www.sciencedirect.com/journal/engineering-structures&#34;&gt;&lt;strong&gt;Engineering Structure&lt;/strong&gt;&lt;/a&gt; vol &lt;a href=&#34;https://www.sciencedirect.com/journal/engineering-structures/vol/219/suppl/C&#34;&gt;219&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An new framework for the optimization of steel jacketing retrofitting interventions on RC columns is presented.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The method can provide topological optimization (location) and amount of steel-jacketing reinforcement.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The optimization process is based on a genetic algorithm handling a fiber-section model realized in OpenSees.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The feasibility individual solutions is controlled by the capacity/demand ratio resulting from pushover analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The application of the method can effectively reduce retrofitting costs maintaining a specified safety level.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The framework can be used by practitioners as a tool for sustainable retrofitting interventions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

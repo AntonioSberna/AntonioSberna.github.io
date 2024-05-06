@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>concrete structures | Antonio Sberna</title>
+    <link>https://AntonioSberna.github.io/tag/concrete-structures/</link>
+      <atom:link href="https://AntonioSberna.github.io/tag/concrete-structures/index.xml" rel="self" type="application/rss+xml" />
+    <description>concrete structures</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:01 +0100</lastBuildDate>
+    <image>
+      <url>https://AntonioSberna.github.io/media/icon_hua8c447e19aaf7ea2349f501e630c4433_22745_512x512_fill_lanczos_center_3.png</url>
+      <title>concrete structures</title>
+      <link>https://AntonioSberna.github.io/tag/concrete-structures/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic progressive collapse response of multi-storey frame structures with masonry infills</title>
+      <link>https://AntonioSberna.github.io/publication/prog-collapse-infill/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/prog-collapse-infill/</guid>
+      <description>&lt;p align=center&gt; &lt;strong&gt;Publication&lt;/strong&gt;: Journal &lt;/p&gt;
+&lt;p align=center&gt; &lt;strong&gt;Publication&lt;/strong&gt;: in 
+&lt;a href=&#34;https://www.sciencedirect.com/journal/structures&#34;&gt;&lt;strong&gt;Structures&lt;/strong&gt;&lt;/a&gt; vol &lt;a href=&#34;https://www.sciencedirect.com/journal/structures/vol/54/suppl/C&#34;&gt;54&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;!-- ## **Abstract**
+
+The response of reinforced concrete (RC) frame building structures to exceptional events like explosions or impacts causing the loss of a primary structural element depends on the robustness of the structural configuration. In the case of a sudden column loss, the resisting mechanism of the involved spans substantially changes, while a progressive collapse mechanism can develop under the arising dynamic loads. The presence of masonry infill walls can substantially modify the overall response to a sudden column loss scenario. In this context, this paper investigates the response of reinforced concrete frame structures undergoing instantaneous column losses in order to assess the influence of masonry infills on the progressive collapse response under dynamic load demands. A recently formulated equivalent-strut macro-modelling approach is employed to reproduce the mechanical interaction between infill walls and the frames. A ten-storey, six-bays 2D reinforced concrete frame is selected as a case study structure considering different reinforcement layouts (seismic or non-seismic design) and column loss scenarios (central column or corner column loss). The simulations are carried out using the fiber-section beam/column elements available in the OpenSees software platform, as they can account for the arching mechanism developing in the post-cracked regime. The dynamic responses of the case-study tests to the sudden column loss scenarios are assessed with and without the inclusion of masonry infills within the structural models. Results demonstrate that masonry infills introduce a substantial modification of the resisting mechanism and of the dynamic response, limiting the propagation of progressive collapse in most of the considered cases. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A new GA-based framework based on Expected Annual Loss for optimizing seismic retrofitting in reinforced concrete frame structures</title>
+      <link>https://AntonioSberna.github.io/publication/anidis2022-eal/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/anidis2022-eal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplified Evaluation of the Additional Shear Demand Due to Masonry Infills</title>
+      <link>https://AntonioSberna.github.io/publication/eosd22/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/eosd22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel framework based on Expected Annual Loss for optimizing seismic retrofitting in reinforced concrete structures</title>
+      <link>https://AntonioSberna.github.io/publication/fibyoung2021/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/fibyoung2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic response of infilled frames subject to accidental column losses</title>
+      <link>https://AntonioSberna.github.io/publication/eurostruct2021/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/eurostruct2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-based optimization framework for the design of seismic retrofitting of reinforced concrete frame structures based on direct costs and EAL</title>
+      <link>https://AntonioSberna.github.io/publication/ga-eal/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:01 +0101</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/ga-eal/</guid>
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An novel AI-based framework for the seismic retrofitting cost optimization of RC buildings is proposed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The framework also controls service life cost through the evaluation of the expected annual loss (EAL).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The method can provide multiple topological and sizing optimization of the reinforcement.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The optimization process is based on a genetic algorithm handling a fiber-section model realized in OpenSees.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The application of the method can effectively reduce retrofitting costs maintaining a specified EAL.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The framework can be implemented as a tool for cost-effective and sustainable design of retrofitting.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expected Annual Loss oriented seismic retrofitting optimization of RC frame structures using a new AI-based framework</title>
+      <link>https://AntonioSberna.github.io/publication/compdyn2021_2/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/compdyn2021_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of steel-jacketing retrofitting of shear-critical and ductility-critical RC frame structures by a novel genetic algorithm framework</title>
+      <link>https://AntonioSberna.github.io/publication/compdyn2021_1/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/compdyn2021_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new genetic algorithm-based framework for optimized design of steel-jacketing retrofitting in shear-critical and ductility-critical RC frame structures</title>
+      <link>https://AntonioSberna.github.io/publication/ga-scdc/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/ga-scdc/</guid>
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A new genetic-algorithm based framework to optimize of retrofitting interventions in RC structures is presented.&lt;/li&gt;
+&lt;li&gt;The method minimizes retrofitting-related costs for steel-jacketing of reinforced concrete columns.&lt;/li&gt;
+&lt;li&gt;The framework efficaciously provides retrofitting optimization for RC structures with shear and ductility lacks.&lt;/li&gt;
+&lt;li&gt;Specific genetic operators and functions have been developed and calibrated.&lt;/li&gt;
+&lt;li&gt;It is proved that the framework can effectively reduce the intervention costs maintaining structural safety.&lt;/li&gt;
+&lt;li&gt;The framework can be a support for engineers in designing efficient existing structures seismic retrofitting.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cost and EAL based optimization for seismic reinforcement of RC structures</title>
+      <link>https://AntonioSberna.github.io/publication/igf26/</link>
+      <pubDate>Wed, 26 May 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/igf26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-based and EAL based optimization algorithms for seismic retrofitting of RC frame structures</title>
+      <link>https://AntonioSberna.github.io/publication/icd2020/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/icd2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic algorithm-based optimization of RC frame structures retrofitting with steel jacketing</title>
+      <link>https://AntonioSberna.github.io/publication/iwsss2020/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/iwsss2020/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/d4e03FPrpv8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal seismic retrofitting of reinforced concrete buildings by steel-jacketing using a genetic algorithm-based framework</title>
+      <link>https://AntonioSberna.github.io/publication/ga-sj/</link>
+      <pubDate>Mon, 25 May 2020 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/ga-sj/</guid>
+      <description>&lt;p align=center&gt; &lt;strong&gt;Publication&lt;/strong&gt;: Journal &lt;/p&gt;
+&lt;p align=center&gt; &lt;strong&gt;Publication&lt;/strong&gt;: in 
+&lt;a href=&#34;https://www.sciencedirect.com/journal/engineering-structures&#34;&gt;&lt;strong&gt;Engineering Structure&lt;/strong&gt;&lt;/a&gt; vol &lt;a href=&#34;https://www.sciencedirect.com/journal/engineering-structures/vol/219/suppl/C&#34;&gt;219&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An new framework for the optimization of steel jacketing retrofitting interventions on RC columns is presented.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The method can provide topological optimization (location) and amount of steel-jacketing reinforcement.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The optimization process is based on a genetic algorithm handling a fiber-section model realized in OpenSees.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The feasibility individual solutions is controlled by the capacity/demand ratio resulting from pushover analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The application of the method can effectively reduce retrofitting costs maintaining a specified safety level.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The framework can be used by practitioners as a tool for sustainable retrofitting interventions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

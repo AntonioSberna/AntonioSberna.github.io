@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Expected Annual Losses | Antonio Sberna</title>
+    <link>https://AntonioSberna.github.io/tag/expected-annual-losses/</link>
+      <atom:link href="https://AntonioSberna.github.io/tag/expected-annual-losses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Expected Annual Losses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Sep 2022 00:00:01 +0100</lastBuildDate>
+    <image>
+      <url>https://AntonioSberna.github.io/media/icon_hua8c447e19aaf7ea2349f501e630c4433_22745_512x512_fill_lanczos_center_3.png</url>
+      <title>Expected Annual Losses</title>
+      <link>https://AntonioSberna.github.io/tag/expected-annual-losses/</link>
+    </image>
+    
+    <item>
+      <title>A new GA-based framework based on Expected Annual Loss for optimizing seismic retrofitting in reinforced concrete frame structures</title>
+      <link>https://AntonioSberna.github.io/publication/anidis2022-eal/</link>
+      <pubDate>Sun, 11 Sep 2022 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/anidis2022-eal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel framework based on Expected Annual Loss for optimizing seismic retrofitting in reinforced concrete structures</title>
+      <link>https://AntonioSberna.github.io/publication/fibyoung2021/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/fibyoung2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-based optimization framework for the design of seismic retrofitting of reinforced concrete frame structures based on direct costs and EAL</title>
+      <link>https://AntonioSberna.github.io/publication/ga-eal/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:01 +0101</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/ga-eal/</guid>
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An novel AI-based framework for the seismic retrofitting cost optimization of RC buildings is proposed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The framework also controls service life cost through the evaluation of the expected annual loss (EAL).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The method can provide multiple topological and sizing optimization of the reinforcement.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The optimization process is based on a genetic algorithm handling a fiber-section model realized in OpenSees.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The application of the method can effectively reduce retrofitting costs maintaining a specified EAL.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The framework can be implemented as a tool for cost-effective and sustainable design of retrofitting.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expected Annual Loss oriented seismic retrofitting optimization of RC frame structures using a new AI-based framework</title>
+      <link>https://AntonioSberna.github.io/publication/compdyn2021_2/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/compdyn2021_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost and EAL based optimization for seismic reinforcement of RC structures</title>
+      <link>https://AntonioSberna.github.io/publication/igf26/</link>
+      <pubDate>Wed, 26 May 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/igf26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-based and EAL based optimization algorithms for seismic retrofitting of RC frame structures</title>
+      <link>https://AntonioSberna.github.io/publication/icd2020/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/icd2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

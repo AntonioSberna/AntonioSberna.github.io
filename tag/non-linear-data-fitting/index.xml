@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>non-linear data fitting | Antonio Sberna</title>
+    <link>https://AntonioSberna.github.io/tag/non-linear-data-fitting/</link>
+      <atom:link href="https://AntonioSberna.github.io/tag/non-linear-data-fitting/index.xml" rel="self" type="application/rss+xml" />
+    <description>non-linear data fitting</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2022 00:00:01 +0100</lastBuildDate>
+    <image>
+      <url>https://AntonioSberna.github.io/media/icon_hua8c447e19aaf7ea2349f501e630c4433_22745_512x512_fill_lanczos_center_3.png</url>
+      <title>non-linear data fitting</title>
+      <link>https://AntonioSberna.github.io/tag/non-linear-data-fitting/</link>
+    </image>
+    
+    <item>
+      <title>Predictive equations for the out‐of-plane resistance of masonry infills in RC frames by a data‐driven approach</title>
+      <link>https://AntonioSberna.github.io/publication/3ecees_oop/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/3ecees_oop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new empirical formulation for the out-of-plane resistance of infilled reinforced concrete frames without prior in-plane loading</title>
+      <link>https://AntonioSberna.github.io/publication/infill-oop/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/infill-oop/</guid>
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A new empirical formulation for the evaluation of the out-of-plane resistance of masonry infills is presented.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The formula is based on a hybrid dataset made of real experimental tests and refined numerical simulations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An in-depth finite element investigation is carried out with a refined micromodel properly validated.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The new formula takes into account the effect of vertical loads on the out-of-plane resistance of infills.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A conversion factor is introduced to compare point-load and distributed load out-of-plane tests.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A comparison with literature models confirms large improvement of predictive capacity by the proposed model.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>masonry infills | Antonio Sberna</title>
+    <link>https://AntonioSberna.github.io/tag/masonry-infills/</link>
+      <atom:link href="https://AntonioSberna.github.io/tag/masonry-infills/index.xml" rel="self" type="application/rss+xml" />
+    <description>masonry infills</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:01 +0100</lastBuildDate>
+    <image>
+      <url>https://AntonioSberna.github.io/media/icon_hua8c447e19aaf7ea2349f501e630c4433_22745_512x512_fill_lanczos_center_3.png</url>
+      <title>masonry infills</title>
+      <link>https://AntonioSberna.github.io/tag/masonry-infills/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic progressive collapse response of multi-storey frame structures with masonry infills</title>
+      <link>https://AntonioSberna.github.io/publication/prog-collapse-infill/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/prog-collapse-infill/</guid>
+      <description>&lt;p align=center&gt; &lt;strong&gt;Publication&lt;/strong&gt;: Journal &lt;/p&gt;
+&lt;p align=center&gt; &lt;strong&gt;Publication&lt;/strong&gt;: in 
+&lt;a href=&#34;https://www.sciencedirect.com/journal/structures&#34;&gt;&lt;strong&gt;Structures&lt;/strong&gt;&lt;/a&gt; vol &lt;a href=&#34;https://www.sciencedirect.com/journal/structures/vol/54/suppl/C&#34;&gt;54&lt;/a&gt;&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;!-- ## **Abstract**
+
+The response of reinforced concrete (RC) frame building structures to exceptional events like explosions or impacts causing the loss of a primary structural element depends on the robustness of the structural configuration. In the case of a sudden column loss, the resisting mechanism of the involved spans substantially changes, while a progressive collapse mechanism can develop under the arising dynamic loads. The presence of masonry infill walls can substantially modify the overall response to a sudden column loss scenario. In this context, this paper investigates the response of reinforced concrete frame structures undergoing instantaneous column losses in order to assess the influence of masonry infills on the progressive collapse response under dynamic load demands. A recently formulated equivalent-strut macro-modelling approach is employed to reproduce the mechanical interaction between infill walls and the frames. A ten-storey, six-bays 2D reinforced concrete frame is selected as a case study structure considering different reinforcement layouts (seismic or non-seismic design) and column loss scenarios (central column or corner column loss). The simulations are carried out using the fiber-section beam/column elements available in the OpenSees software platform, as they can account for the arching mechanism developing in the post-cracked regime. The dynamic responses of the case-study tests to the sudden column loss scenarios are assessed with and without the inclusion of masonry infills within the structural models. Results demonstrate that masonry infills introduce a substantial modification of the resisting mechanism and of the dynamic response, limiting the propagation of progressive collapse in most of the considered cases. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictive equations for the out‐of-plane resistance of masonry infills in RC frames by a data‐driven approach</title>
+      <link>https://AntonioSberna.github.io/publication/3ecees_oop/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/3ecees_oop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplified Evaluation of the Additional Shear Demand Due to Masonry Infills</title>
+      <link>https://AntonioSberna.github.io/publication/eosd22/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/eosd22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic response of infilled frames subject to accidental column losses</title>
+      <link>https://AntonioSberna.github.io/publication/eurostruct2021/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/eurostruct2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new empirical formulation for the out-of-plane resistance of infilled reinforced concrete frames without prior in-plane loading</title>
+      <link>https://AntonioSberna.github.io/publication/infill-oop/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/infill-oop/</guid>
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A new empirical formulation for the evaluation of the out-of-plane resistance of masonry infills is presented.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The formula is based on a hybrid dataset made of real experimental tests and refined numerical simulations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An in-depth finite element investigation is carried out with a refined micromodel properly validated.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The new formula takes into account the effect of vertical loads on the out-of-plane resistance of infills.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A conversion factor is introduced to compare point-load and distributed load out-of-plane tests.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A comparison with literature models confirms large improvement of predictive capacity by the proposed model.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
