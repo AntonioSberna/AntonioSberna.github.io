@@ -5,7 +5,7 @@
     <link>https://AntonioSberna.github.io/tag/opensees/</link>
       <atom:link href="https://AntonioSberna.github.io/tag/opensees/index.xml" rel="self" type="application/rss+xml" />
     <description>OpenSees</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Apr 2024 00:00:01 +0101</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2024 00:00:01 +0101</lastBuildDate>
     <image>
       <url>https://AntonioSberna.github.io/media/icon_hua8c447e19aaf7ea2349f501e630c4433_22745_512x512_fill_lanczos_center_3.png</url>
       <title>OpenSees</title>
@@ -15,12 +15,25 @@
     <item>
       <title>Structural health monitoring of masonry structure by stress sensors: Experimental induced damage tests and proposed numerical approach for real time monitoring</title>
       <link>https://AntonioSberna.github.io/publication/masonry_sensors_fibers/</link>
-      <pubDate>Mon, 08 Apr 2024 00:00:01 +0101</pubDate>
+      <pubDate>Fri, 25 Oct 2024 00:00:01 +0101</pubDate>
       <guid>https://AntonioSberna.github.io/publication/masonry_sensors_fibers/</guid>
-      <description>&lt;!-- ## **Highlights**  --&gt;
-&lt;h3 id=&#34;pubblication-process-state&#34;&gt;Pubblication process state:&lt;/h3&gt;
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Apr 2023 - Submitted&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Two types of stress sensors embedded in mortar joints are tested for real time monitoring of masonry structures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Half scaled masonry wall specimens made of three piers were arranged with calcarenite and clay masonry.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Damage to the central pier was induced during the test by a progressive reduction of the cross-section.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A numerical micro-model is used as reference for comparison of vertical stress measures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Simplified fiber-section equivalent frame modelling is validated as an effective approach for real time monitoring&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
