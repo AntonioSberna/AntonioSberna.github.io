@@ -5,12 +5,40 @@
     <link>https://AntonioSberna.github.io/tag/genetic-algorithms/</link>
       <atom:link href="https://AntonioSberna.github.io/tag/genetic-algorithms/index.xml" rel="self" type="application/rss+xml" />
     <description>genetic algorithms</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:01 +0101</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Apr 2025 00:00:01 +0100</lastBuildDate>
     <image>
       <url>https://AntonioSberna.github.io/media/icon_hua8c447e19aaf7ea2349f501e630c4433_22745_512x512_fill_lanczos_center_3.png</url>
       <title>genetic algorithms</title>
       <link>https://AntonioSberna.github.io/tag/genetic-algorithms/</link>
     </image>
+    
+    <item>
+      <title>Engineered Design Frameworks for Seismic Retrofitting: A State-of-the-Art Review</title>
+      <link>https://AntonioSberna.github.io/publication/rew_eng_frameworks/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/rew_eng_frameworks/</guid>
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Comprehensive state-of-the-art review of engineered design frameworks for seismic retrofitting is provided&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Applications of Multi-Criteria Decision-Making and Optimization frameworks are described in detail&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pro and cons of MCDM Optimization frameworks are compared across extensive literature review&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is highlighted the need for need for standardized methodologies to enhance sustainable design&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publication-process&#34;&gt;&lt;strong&gt;Publication process:&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Feb 2025 Under review&lt;/li&gt;
+&lt;li&gt;Jun 2025 Accepted&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Cost-effective topology optimization of existing masonry structure seismic reinforcements by a new genetic algorithm-based framework</title>

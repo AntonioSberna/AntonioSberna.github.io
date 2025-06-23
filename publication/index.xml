@@ -5,12 +5,126 @@
     <link>https://AntonioSberna.github.io/publication/</link>
       <atom:link href="https://AntonioSberna.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 00:00:01 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Apr 2025 00:00:01 +0100</lastBuildDate>
     <image>
       <url>https://AntonioSberna.github.io/media/icon_hua8c447e19aaf7ea2349f501e630c4433_22745_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://AntonioSberna.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Engineered Design Frameworks for Seismic Retrofitting: A State-of-the-Art Review</title>
+      <link>https://AntonioSberna.github.io/publication/rew_eng_frameworks/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/rew_eng_frameworks/</guid>
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Comprehensive state-of-the-art review of engineered design frameworks for seismic retrofitting is provided&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Applications of Multi-Criteria Decision-Making and Optimization frameworks are described in detail&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pro and cons of MCDM Optimization frameworks are compared across extensive literature review&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is highlighted the need for need for standardized methodologies to enhance sustainable design&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publication-process&#34;&gt;&lt;strong&gt;Publication process:&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Feb 2025 Under review&lt;/li&gt;
+&lt;li&gt;Jun 2025 Accepted&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Local shear demand correction model for the analysis of reinforced concrete infilled frames with equivalent struts</title>
+      <link>https://AntonioSberna.github.io/publication/infill_interaction/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/infill_interaction/</guid>
+      <description>&lt;h2 id=&#34;publication-process&#34;&gt;&lt;strong&gt;Publication process:&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Nov 2024 - Under review&lt;/li&gt;
+&lt;li&gt;Jun 2025 - Accepted&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reliability-based seismic retrofitting design methodology for non-ductile reinforced concrete frame structures</title>
+      <link>https://AntonioSberna.github.io/publication/pbsd_retrofit/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:01 +0101</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/pbsd_retrofit/</guid>
+      <description>&lt;!-- ## **Highlights**   --&gt;
+&lt;h2 id=&#34;publication-process&#34;&gt;&lt;strong&gt;Publication process&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Sept. 2024 Under review&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhanced Compressive Performance and Energy Absorption in SLM-Fabricated 316L Arrowhead Auxetics via Tendon and Stuffer Geometry Modification</title>
+      <link>https://AntonioSberna.github.io/publication/arrowhead_auxetics/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/arrowhead_auxetics/</guid>
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Uses SLM to fabricate 316L stainless steel metamaterials.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Impact of smaller tendons and larger stu!ers in arrowhead structures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quasi-static and dynamic compressive behavior.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;FEM and experiments validate auxetic behaviors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Novel designs optimize protective performance&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publication-process&#34;&gt;&lt;strong&gt;Publication process:&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Apr 2025 Under review&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterizing bamboo aggregate foamed concrete for sustainable construction: thermal, acoustic, mechanical, and environmental aspects</title>
+      <link>https://AntonioSberna.github.io/publication/biobased_concr/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:01 +0100</pubDate>
+      <guid>https://AntonioSberna.github.io/publication/biobased_concr/</guid>
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;&lt;strong&gt;Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Uses SLM to fabricate 316L stainless steel metamaterials.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Impact of smaller tendons and larger stu!ers in arrowhead structures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quasi-static and dynamic compressive behavior.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;FEM and experiments validate auxetic behaviors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Novel designs optimize protective performance&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publication-process&#34;&gt;&lt;strong&gt;Publication process:&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mar 2025 - Under review&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Enhancing seismic site response analyses: tuning soil properties via genetic algorithms and Bayesian model updating from downhole array data</title>
@@ -20,31 +134,6 @@
       <description>&lt;h2 id=&#34;publication-process&#34;&gt;&lt;strong&gt;Publication process:&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Nov. 2024 Under review&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Local shear demand correction model for the analysis of reinforced concrete infilled frames with equivalent struts</title>
-      <link>https://AntonioSberna.github.io/publication/infill_interaction/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:01 +0100</pubDate>
-      <guid>https://AntonioSberna.github.io/publication/infill_interaction/</guid>
-      <description>&lt;h2 id=&#34;publication-process&#34;&gt;&lt;strong&gt;Publication process:&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Nov. 2024 Under review&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Reliability-based seismic retrofitting design methodology for non-ductile reinforced concrete frame structures</title>
-      <link>https://AntonioSberna.github.io/publication/pbsd_retrofit/</link>
-      <pubDate>Sat, 26 Oct 2024 00:00:01 +0101</pubDate>
-      <guid>https://AntonioSberna.github.io/publication/pbsd_retrofit/</guid>
-      <description>&lt;!-- ## **Highlights**   --&gt;
-&lt;h2 id=&#34;publication-process&#34;&gt;&lt;strong&gt;Publication process&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Sept. 2024 Under review&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
