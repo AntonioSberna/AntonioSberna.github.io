@@ -1,0 +1,23 @@
+/* TEAM */
+  Author, writer, engineer: Antonio P. Sberna
+  Role: Research fellow in Structural Engineering, University of Chieti-Pescara
+  From: Pescara, Italy
+  Mastodon: https://mastodon.uno/@antoniosberna
+  ORCID: https://orcid.org/0000-0001-7231-8382
+
+/* THANKS */
+  Claude Opus 5.5: code of this site, and the English of the posts (the ideas are mine)
+  Gemini 3: the illustrations of the blog, from prompts I wrote
+  Randall Munroe (xkcd): for twenty years of smarter stick figures
+  Everyone who reads a post to the end
+
+/* SITE */
+  Last update: 2026/11/12
+  Language: English
+  Doctype: HTML5
+  Standards: WCAG 2.2 AA, PDF/UA-2 (CV), schema.org, llms.txt
+  Components: Hugo, Font Awesome, Academicons
+  Fonts: Lora, Roboto (site); TeX Gyre Pagella and Heros (CV)
+  Software: Hugo, LaTeX, Python, a text editor and too much coffee
+  Source: https://github.com/AntonioSberna/PersonalWebPageSource
+  For agents: https://AntonioSberna.github.io/llms.txt
