@@ -12,7 +12,7 @@
   Everyone who reads a post to the end
 
 /* SITE */
-  Last update: 2026/11/12
+  Last update: 2026/11/13
   Language: English
   Doctype: HTML5
   Standards: WCAG 2.2 AA, PDF/UA-2 (CV), schema.org, llms.txt
