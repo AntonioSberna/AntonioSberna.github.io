@@ -8,6 +8,7 @@ Agents reading this site on behalf of a person are welcome. Automated collection
 
 ## Blog posts
 
+- [Where the Paper Trail Ends](https://AntonioSberna.github.io/blog/2026-paper-trail-ends/index.md): Papers and ideas are losing value as fast as we produce them. What is left for a researcher to do, and where could they go? (15 November 2026)
 - [A Gym for Theory](https://AntonioSberna.github.io/blog/2026-llm-theory-gym/index.md): If agents are becoming the workforce of intellectual professions, what remains is theory, and the question of where to train it. (24 October 2026)
 - [Why Not Straight to Assembly?](https://AntonioSberna.github.io/blog/2026-why-not-assembly/index.md): Ask an LLM for something computational and you get Python back. Why not something closer to the metal? I asked one. (21 October 2026)
 - [These Are All English Words](https://AntonioSberna.github.io/blog/2026-on-thinking-differently-screen/index.md): I no longer write code with my hands, and I no longer google. Notes from a millennial on a shift that will not be reversed. (17 October 2026)
