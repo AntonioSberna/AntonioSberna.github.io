@@ -5,6 +5,7 @@
 - Author: Antonio P. Sberna (Research fellow in Structural Engineering, University of Chieti-Pescara)
 - Published: 17 October 2026, Pescara, Italy
 - Web page: https://AntonioSberna.github.io/blog/2026-on-thinking-differently-screen/
+- Discussion: https://mastodon.uno/@antoniosberna/117643541906128157
 - License: CC BY 4.0 (https://AntonioSberna.github.io/license/). Cite as: Antonio P. Sberna, "These Are All English Words", 17 October 2026, https://AntonioSberna.github.io/blog/2026-on-thinking-differently-screen/
 
 > I no longer write code with my hands, and I no longer google. Notes from a millennial on a shift that will not be reversed.
