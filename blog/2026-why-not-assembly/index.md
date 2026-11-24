@@ -5,6 +5,7 @@
 - Author: Antonio P. Sberna (Research fellow in Structural Engineering, University of Chieti-Pescara)
 - Published: 21 October 2026, Pescara, Italy
 - Web page: https://AntonioSberna.github.io/blog/2026-why-not-assembly/
+- Discussion: https://mastodon.uno/@antoniosberna/117670745472602354
 - License: CC BY 4.0 (https://AntonioSberna.github.io/license/). Cite as: Antonio P. Sberna, "Why Not Straight to Assembly?", 21 October 2026, https://AntonioSberna.github.io/blog/2026-why-not-assembly/
 
 > Ask an LLM for something computational and you get Python back. Why not something closer to the metal? I asked one.
